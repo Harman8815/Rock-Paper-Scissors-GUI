@@ -1,4 +1,4 @@
-# ✊🏼📄✂️ Project Title: Java Rock Paper Scissors Game GUI
+# ✊🏼📄✂️  Java Rock Paper Scissors Game GUI
 
 ## 📝 Description
 
